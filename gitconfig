@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = renaat@drvn.be
+	name = Renaat De Vos
