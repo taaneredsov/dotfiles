@@ -49,3 +49,7 @@
 [user]
 	email = renaat@drvn.be
 	name = Renaat De Vos
+[filter "media"]
+	required = true
+	clean = git media clean %f
+	smudge = git media smudge %f
